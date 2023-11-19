@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains files related to the cleaning and analysis of the FIFA 21 dataset.
+This project focuses on preparing and analyzing the FIFA 21 dataset, sourced from Kaggle. The repository provides a structured workflow for cleaning the original dataset, performing exploratory data analysis, and creating insightful visualizations.
 
 ## Repository Structure
 
@@ -18,6 +18,9 @@ This repository contains files related to the cleaning and analysis of the FIFA 
   - `fifa_21_df.ipynb`: Jupyter Notebook documenting the process of cleaning and transforming the starting file.
   - `fifa_21_graphs.ipynb`: Jupyter Notebook creating visualizations and graphs from the cleaned dataset.
 
+## Usage
+
+Explore the cleaned dataset and leverage the insights gained from the analysis. The Jupyter Notebooks serve as comprehensive guides, providing transparency into the data cleaning and visualization processes.
 
 ## License
 
