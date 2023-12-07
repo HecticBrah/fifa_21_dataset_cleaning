@@ -20,7 +20,3 @@ This project focuses on preparing and analyzing the FIFA 21 dataset, sourced fro
 ## Usage
 
 Explore the cleaned dataset and leverage the insights gained from the analysis. The Jupyter Notebooks serve as comprehensive guides, providing transparency into the data cleaning and visualization processes.
-
-## Usage
-
-Explore the cleaned dataset and leverage the insights gained from the analysis.
