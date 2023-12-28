@@ -1,6 +1,5 @@
 # FIFA 21 Dataset Cleaning and Analysis
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## Overview
 
@@ -21,7 +20,3 @@ This project focuses on preparing and analyzing the FIFA 21 dataset, sourced fro
 ## Usage
 
 Explore the cleaned dataset and leverage the insights gained from the analysis. The Jupyter Notebooks serve as comprehensive guides, providing transparency into the data cleaning and visualization processes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
